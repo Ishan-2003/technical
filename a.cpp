@@ -1,12 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
-int main()
-{
-    long long t;
-    cin >> t;
-    while (t--)
-    {
-       
-        }
-    
-    return 0;}
+
+int main() {
+	// your code goes here
+	cout<< (16&18)<<endl;
+	return 0;
+}
